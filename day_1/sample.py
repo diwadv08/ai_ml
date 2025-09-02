@@ -6,7 +6,7 @@
 # b=False
 # print(b)
 
-name="Hari"
+# name="Hari"
 # age=25
 # mobile_number=9489460029
 # place="Trichy"
@@ -71,7 +71,6 @@ name="Hari"
 # print(new_list)
 # print(myString)
 # print(f"Hello World My name is '{new_list[0]}'")
-
 
 # empty_list = []
 # numbers = [1, 2, 3]
