@@ -83,8 +83,6 @@
 # print(list_from_range)
 # print(list_from_string)
 
-
-
 # List Methods
 # nums = [10, 20, 30, 40, 50]
 # print(nums[0])      # 10 (first element)
